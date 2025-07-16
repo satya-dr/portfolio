@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/satya-dr/portfolio/static/css/main.1c6cc986.css",
-    "main.js": "/satya-dr/portfolio/static/js/main.4e0d2544.js",
-    "static/js/453.43d9cead.chunk.js": "/satya-dr/portfolio/static/js/453.43d9cead.chunk.js",
-    "static/media/profile.jpg": "/satya-dr/portfolio/static/media/profile.a2ef051ef14fbf169e4d.jpg",
-    "static/media/cgec_certificate.png": "/satya-dr/portfolio/static/media/cgec_certificate.75d20376e4d0b175ec0c.png",
-    "static/media/devDraw.png": "/satya-dr/portfolio/static/media/devDraw.a965103e11eccb467d19.png",
-    "static/media/tech_quiz.png": "/satya-dr/portfolio/static/media/tech_quiz.ffb0b47c51f18e0934e9.png",
-    "static/media/code_athon.png": "/satya-dr/portfolio/static/media/code_athon.fd5a5d8a5ca00c1f43b3.png",
-    "static/media/robo_socoor.jpeg": "/satya-dr/portfolio/static/media/robo_socoor.ebbca674972e4d25bb7e.jpeg",
-    "static/media/cube_solve.jpeg": "/satya-dr/portfolio/static/media/cube_solve.80754c11a978f2673b17.jpeg",
-    "index.html": "/satya-dr/portfolio/index.html",
-    "main.1c6cc986.css.map": "/satya-dr/portfolio/static/css/main.1c6cc986.css.map",
-    "main.4e0d2544.js.map": "/satya-dr/portfolio/static/js/main.4e0d2544.js.map",
-    "453.43d9cead.chunk.js.map": "/satya-dr/portfolio/static/js/453.43d9cead.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.1c6cc986.css",
+    "main.js": "/portfolio/static/js/main.6076b332.js",
+    "static/js/453.43d9cead.chunk.js": "/portfolio/static/js/453.43d9cead.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.a2ef051ef14fbf169e4d.jpg",
+    "static/media/cgec_certificate.png": "/portfolio/static/media/cgec_certificate.75d20376e4d0b175ec0c.png",
+    "static/media/devDraw.png": "/portfolio/static/media/devDraw.a965103e11eccb467d19.png",
+    "static/media/tech_quiz.png": "/portfolio/static/media/tech_quiz.ffb0b47c51f18e0934e9.png",
+    "static/media/code_athon.png": "/portfolio/static/media/code_athon.fd5a5d8a5ca00c1f43b3.png",
+    "static/media/robo_socoor.jpeg": "/portfolio/static/media/robo_socoor.ebbca674972e4d25bb7e.jpeg",
+    "static/media/cube_solve.jpeg": "/portfolio/static/media/cube_solve.80754c11a978f2673b17.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.1c6cc986.css.map": "/portfolio/static/css/main.1c6cc986.css.map",
+    "main.6076b332.js.map": "/portfolio/static/js/main.6076b332.js.map",
+    "453.43d9cead.chunk.js.map": "/portfolio/static/js/453.43d9cead.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c6cc986.css",
-    "static/js/main.4e0d2544.js"
+    "static/js/main.6076b332.js"
   ]
 }
