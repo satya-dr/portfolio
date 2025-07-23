@@ -13,7 +13,7 @@ const educationData = [
   {
     degree: "Higher Secondary Education (Science)",
     institution: "Doon Heritage School, Darjeeling",
-     dept:"PCM",
+     dept:"SCIENCE (PCM)",
     duration: "2023 – 2024",
     result: "68.02% (CBSE)"
   },
