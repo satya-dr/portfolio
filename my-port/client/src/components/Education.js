@@ -21,6 +21,7 @@ const educationData = [
     degree: "Secondary (Madhyamik)",
     institution: "Jateswar High School, WB",
     duration: "2021 – 2022",
+    dept:"CLASS X (Section A)",
     result: "84.5% (WBBSE)"
   }
 ];
