@@ -11,7 +11,7 @@ const educationData = [
     result: "Not Published Yet"
   },
   {
-    degree: "Higher Secondary Education (Science)",
+    degree: "Secondary Education (12th)",
     institution: "Doon Heritage School, Darjeeling",
      dept:"SCIENCE (PCM)",
     duration: "2023 – 2024",
